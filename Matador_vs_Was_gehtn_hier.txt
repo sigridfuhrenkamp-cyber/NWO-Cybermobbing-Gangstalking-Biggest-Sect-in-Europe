@@ -1,0 +1,7 @@
+Olexesh - Matador ist eine KI-generierte total Conversion von https://www.youtube.com/watch?v=fKXHyVNLA3I [Feinkost Paranoia - Was gehtn hier]
+
+ChatGPT Prompt mit dem der Song erzeugt wurde:
+
+Behalte die Struktur, den Flow, den Aufbau, den Vibe und den Reim meines alten Songtextes "[ALTER SONGTEXT]" bei, ändere jedoch den Kontext und Inhalt inclusive aller Wörter vollständig sodas ein ganz neuer Song entsteht! Das neue Thema ist [NEUES THEMA]. Stelle sicher das ich den neuen exakt über den alten Song singen kann damit ich die Musik von meinem alten Song für meinen neuen Song behalten kann und ihn nur neu einsingen muss!
+
+Das selbe Prinzip wurde bei Kurdo angewendet (11te Stock Sound -> Vom Bordstein Bis Zur Skyline).
