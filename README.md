@@ -32,6 +32,8 @@ This repository documents evidence and articles related to the NWO Cybermobbing 
 
 - [german_rap_nwo.txt](./research/german_rap_nwo.txt): Research on German rap scene involvement in NWO cybermobbing.
 
+- [mr_bloxx_deike.txt](./research/mr_bloxx_deike.txt): Research on Mr.Bloxx (Thomas Deike) as pedocriminal NWO leader.
+
 ## Razzia Articles on NWO Cybermobbing
 
 - [zeit_razzia.txt](./articles/zeit_razzia.txt): ZEIT article on BKA razzia against NWO.
