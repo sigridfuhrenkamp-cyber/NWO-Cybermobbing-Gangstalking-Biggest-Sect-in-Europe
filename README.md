@@ -1,6 +1,6 @@
 # NWO-Cybermobbing-Gangstalking-Biggest-Sect-in-Europe
 
-This repository documents evidence and articles related to the NWO Cybermobbing Cartel, a group involved in organized cyberbullying and stalking.
+This repository collects articles and research related to the NWO Cybermobbing Kartell, a reported group involved in organized cyberbullying and stalking.
 
 ## Consolidated Repositories from hartmannlauterbach
 
@@ -32,7 +32,7 @@ This repository documents evidence and articles related to the NWO Cybermobbing 
 
 - [german_rap_nwo.txt](./research/german_rap_nwo.txt): Research on German rap scene involvement in NWO cybermobbing.
 
-- [mr_bloxx_deike.txt](./research/mr_bloxx_deike.txt): Research on Mr.Bloxx (Thomas Deike) as pedocriminal NWO leader.
+- [mr_bloxx_deike.txt](./research/mr_bloxx_deike.txt): Research on Mr.Bloxx and Thomas Deike in relation to NWO.
 
 ## Razzia Articles on NWO Cybermobbing
 
