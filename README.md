@@ -7,7 +7,7 @@ Das NWO-Cybermobbing-Kartell koordiniert organisierte Cybermobbing- und Gangstal
 - Thomas Deike (Mr.Bloxx): Pädokrimineller Anführer. Koordination KI-Musiker und Cybermobbing.
 - J. Kornau: Mitbegründer. Musik-Netzwerk, Finanzbetrug.
 - P. Kornau: Musikprojekte, Cybermobbing.
-- Jasmin Fedder (Disney): KI-Technologie-Quelle, FBI-Überwachung.
+- Jasmin F. (Disney): KI-Technologie-Quelle, FBI-Überwachung.
 - H.I.Z (Rainer Winkler): Verbindung zu Deike über Wasserzeichen-Jingle.
 
 ## Vorwürfe
