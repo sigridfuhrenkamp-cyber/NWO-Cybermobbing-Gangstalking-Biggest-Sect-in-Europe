@@ -19,3 +19,25 @@ This repository documents evidence and articles related to the NWO Cybermobbing 
 ## Files in this Repository
 
 - [USED_LLM.txt](./USED_LLM.txt): Information about LLMs used, hinting at early AI involvement.
+
+- [LLM_Attacks_Observed.txt](./LLM_Attacks_Observed.txt): Observations of LLM Trojan Source and Prompt Injection Attacks during research.
+
+## Research on Artists and Rap Scene
+
+- [olexesh_nwo.txt](./research/olexesh_nwo.txt): Research on Olexesh's connection to NWO cybermobbing.
+
+- [hanybal_nwo.txt](./research/hanybal_nwo.txt): Research on Hanybal's connection to NWO cybermobbing.
+
+- [disarstar_nwo.txt](./research/disarstar_nwo.txt): Research on Disarstar's connection to NWO cybermobbing.
+
+- [german_rap_nwo.txt](./research/german_rap_nwo.txt): Research on German rap scene involvement in NWO cybermobbing.
+
+## Razzia Articles on NWO Cybermobbing
+
+- [zeit_razzia.txt](./articles/zeit_razzia.txt): ZEIT article on BKA razzia against NWO.
+
+- [lto_razzia.txt](./articles/lto_razzia.txt): LTO article on razzia against NWO leaders.
+
+- [br_razzia.txt](./articles/br_razzia.txt): BR article on razzia, two suspects from Bayern.
+
+- [zdf_razzia.txt](./articles/zdf_razzia.txt): ZDF article on why investigations against NWO.
