@@ -1,0 +1,12 @@
+Untersuchung des Repositories: NWO_Das_Cybermobbing_Kartell-HIZ_und_MrBloxx
+
+Beschreibung: Beweis für identische Wasserzeichen-Jingles in Songs von Mr.Bloxx und H.I.Z, direkte Verbindung zu Thomas Deike.
+
+Inhalte:
+- Audio-Dateien: Mr.Bloxx - Die Welt von oben.mp3, H.I.Z - Warum liegt da ne Wurst.mp3
+- Bilder: Diskografie von Mr.Bloxx und H.I.Z
+- ARCHIVE-URLS.md: Archivierte Spotify-URLs für Verifikation
+
+Zentrale Behauptung: Rainer Winkler (Drachenlord) ist Opfer, nicht H.I.Z. H.I.Z ist KI-Musiker des NWO-Kartells zur Verfolgung.
+
+Technische Analyse: Identische Wasserzeichen-Jingles als Beweis für gemeinsame Produktion.
